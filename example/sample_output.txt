@@ -1,0 +1,10 @@
+Original MAC: 02:98:e3:eb:f0:d0
+Rotating every 5.0s on eth0... (Ctrl+C to stop)
+
+[14:57:37] MAC changed to 02:dd:f2:00:cb:ed
+[14:57:43] MAC changed to 02:88:70:03:9a:1f
+[14:57:48] MAC changed to 02:72:49:76:5e:5f
+[14:57:53] MAC changed to 02:f3:22:71:6c:b9
+[14:57:58] MAC changed to 02:8a:38:8a:02:f2
+[14:58:04] MAC changed to 02:23:17:e8:b7:05
+[14:58:09] MAC changed to 02:7d:ee:a7:cf:0c
