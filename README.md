@@ -1,4 +1,4 @@
-# MAC Address Spoofing (with Rotation)
+# MAC Address Spoofing
 
 ## Objective
 Learn how MAC addresses work at the network interface level by building a
@@ -80,8 +80,8 @@ Restored to aa:bb:cc:dd:ee:ff
 03-mac-spoofing/
 ├── README.md
 ├── scripts/
-│   └── mac_spoofer.py
-└── examples/
+│   └── mac-spoofer.py
+└── example/
     └── sample_output.txt
 ```
 
